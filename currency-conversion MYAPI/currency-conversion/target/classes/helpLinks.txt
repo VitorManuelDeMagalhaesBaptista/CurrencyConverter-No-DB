@@ -1,0 +1,13 @@
+
+
+https://v6.exchangerate-api.com/v6/0afb8998c3ab1a5e8269a4c0/latest/USD - standard request
+(shows your base code against all other currencyes)
+
+
+
+
+https://v6.exchangerate-api.com/v6/YOUR-API-KEY/pair/EUR/GBP/AMOUNT - pair request
+(shows the exchange rate from your base code to the target currency, as well as a conversion of the amount you supplied)
+
+
+http://localhost:8080/pair/from/EUR/to/USD/AMOUNT/1
